@@ -1,0 +1,7 @@
+metodi per predizione del traffico
+
+Autoregressive Integrated Moving Average (ARIMA) -Media mobile integrata autoregressiva- occorrono big data
+studio---->Seasonal ARIMA (SARIMA) 
+metodi statistici parametrici( linear and nonlinear regression, historical average algorithms,smoothing techniques,and autoregressive linear processes) e non parametrici(nonparametric regression,reti neurali)
+SAE autoencoder a pila per estrazione features
+
