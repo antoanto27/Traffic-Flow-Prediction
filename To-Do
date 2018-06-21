@@ -1,0 +1,7 @@
+1.	Farsi uno stato dell’arte su algoritmi di intelligenza artificiale applicati al traffico
+  a.	Task: quali task sono stati considerati?
+  b.	Algoritmi e tecniche utilizzate per fare fronte ai task (inclusi i sensori)
+  c.	Dataset utilizzabili
+  d.	Risultati ottenuti
+NB: scrivere la tesi mentre si lavora
+2.	Sulla base di DB utilizzabili e risultati (1.d) implementare e testare uno degli algoritmi 1.b
